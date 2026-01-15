@@ -14,5 +14,4 @@
   - Codeforces: https://codeforces.com/profile/direhowl 
   - Mail: github.com.daringly439@passinbox.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifmunk)](https://github.com/anuraghazra/github-readme-stats)
 - ⚡ Fun fact: I debug code the same way I play chess — slow, calm, and calculated ♟️💻
